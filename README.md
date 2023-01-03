@@ -530,3 +530,8 @@ Your donation makes **acme.sh** better:
 1. PayPal/Alipay(支付宝)/Wechat(微信): [https://donate.acme.sh/](https://donate.acme.sh/)
 
 [Donate List](https://github.com/acmesh-official/acme.sh/wiki/Donate-list)
+git clone https://github.com/acmesh-official/acme.sh.git
+
+cd ./acme.sh
+
+./acme.sh --install -m my@example.com
